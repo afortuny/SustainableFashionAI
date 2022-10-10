@@ -29,7 +29,7 @@ The following figures come from the [United Nations Environmental Programme and 
 With that in mind, it is clear that there is a need to reduce its emissions, water use, waste and product according to circular economy principles.
 
 A deep dive in the drivers of emissions show that [70% of the fashion industry’s emissions came from upstream activities such as materials production, preparation and processing](https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/fashion%20on%20climate/fashion-on-climate-full-report.pdf),
-. That means the in the actual design and production of products are the majority of emissions happening. 
+. That means the in the actual design and production of products are the majority of emissions happening. Around 90% of the accelerated abatement can be delivered below a cost of around USD50 per tonne of GHG emissions.
 
 
 
