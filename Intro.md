@@ -31,6 +31,22 @@ With that in mind, it is clear that there is a need to reduce its emissions, wat
 A deep dive in the drivers of emissions show that [70% of the fashion industry’s emissions came from upstream activities such as materials production (40%), preparation and processing](https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/fashion%20on%20climate/fashion-on-climate-full-report.pdf),
 . That means the in the actual design and production of products are the majority of emissions happening. Around 90% of the accelerated abatement can be delivered below a cost of around USD50 per tonne of GHG emissions.
 
+In this article, we are aiming to understand how AI can help to make this industry more sustainable. Let's start what the industry is normally using AI for.
+
+A brief review of what are typical use cases for AI in fashion show that the focus is mainly on sales and profitability growth, while little on the implementation
+of circular fashion principles. With the exeption of the usage of demand and supply optimization algorithms to reduce excess stock, there are little known experiences at both industry and academia which goes beyond: pricing, markdown, product recommendations, automatic designs, rapid creation.
+
+The following summaries found in medium support such claim: 
+
+* https://medium.datadriveninvestor.com/ai-and-machine-learning-for-fashion-industry-global-trends-benefits-3fe11a17849e
+* https://medium.com/vsinghbisen/how-ai-is-changing-fashion-impact-on-the-industry-with-use-cases-76f20fc5d93f
+
+Garment creation is a labor intensive activity, [employing 60 million workers worldwide](https://fashionunited.com/global-fashion-industry-statistics), and if it is subject to severe automatition, which potentially large job losses, as [the wall street journal points](https://www.youtube.com/watch?v=OsSDI8wWAyQ).
+
+But it is that all that AI can offer? job automation and a fashion that is faster, last less and keep polluting the planet at unprecedented rate? Probably not. We would like to offer ways in which AI could accelerate the implementation of a circular economy in the following dimensions:
+
+
+
 
 
 
