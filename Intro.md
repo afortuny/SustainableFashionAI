@@ -48,15 +48,15 @@ But it is that all that AI can offer? job automation and a fashion that is faste
 * Improving what we design
 1) AI can be used to design [long lasting garments](https://www.sciencedirect.com/science/article/pii/S0166361522001750). We can use product reviews and lab data to make predictions of the lasting of the products, supporting the creation of those with the large life cycles.
 2) AI can be used to create truly unique articles (Adidas research): leverage computer vision, material and fit data we can identify unique products and make leaner offering.
-3) AI can identify those sustainable materials with proven track record in the industry of functionality, good and durability...to make safe substitutions for the traditional less sustainable options.
-4) Using Value based creation and pricing to create valuable and profitable products
+3) AI can identify those sustainable materials with proven track record in the industry of functionality, good and durability...to make safe substitutions for the traditional less sustainable options.(Adidas research, trail running review dataset request pending)
+4) Using Value based creation and pricing to create valuable and profitable products (https://www.sciencedirect.com/science/article/pii/S0148296322006531) (https://www.sciencedirect.com/science/article/pii/S0040162522003316)
 5) Supporting the creation of designs which are easy to recycle or decompose naturally
 
-* Eliminating excess stock
+* Eliminating excess stock and waste
 
 1) AI can be used to reduce excess stocks via better demand forecasting and stock optimization
 2) Leveraging pre-order models ?
-3) Leveraging renting and second life channels ?
+3) Leveraging renting and [second life channels](https://electricrunway.com/how-thredup-is-using-ai-to-create-a-more-circular-fashion-future/)  ?
 
 * At the delivery stage
 1) AI can be used to reduce returns by making very accurate size/fit/product recommendations
