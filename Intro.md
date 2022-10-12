@@ -33,6 +33,8 @@ A deep dive in the drivers of emissions show that [70% of the fashion industryâ€
 
 In this article, we are aiming to understand how AI can help to make this industry more sustainable. Let's start what the industry is normally using AI for.
 
+# How AI has been mainly used in fashion up to this point
+
 A brief review of what are typical use cases for AI in fashion show that the focus is mainly on sales and profitability growth, while little on the implementation
 of circular fashion principles. With the exeption of the usage of demand and supply optimization algorithms to reduce excess stock, there are little known experiences at both industry and academia which goes beyond: pricing, markdown, product recommendations, automatic designs, rapid creation.
 
@@ -44,6 +46,8 @@ The following summaries found in medium support such claim:
 Garment creation is a labor intensive activity, [employing 60 million workers worldwide](https://fashionunited.com/global-fashion-industry-statistics), and if it is subject to severe automatition, which potentially large job losses, as [the wall street journal points](https://www.youtube.com/watch?v=OsSDI8wWAyQ).
 
 But it is that all that AI can offer? job automation and a fashion that is faster, last less and keep polluting the planet at unprecedented rate? Probably not. We would like to offer ways in which AI could accelerate the implementation of a circular economy in the following dimensions:
+
+# What AI can do to accelerate a truly circular fashion
 
 * Improving what we design
 1) AI can be used to design [long lasting garments](https://www.sciencedirect.com/science/article/pii/S0166361522001750). We can use product reviews and lab data to make predictions of the lasting of the products, supporting the creation of those with the large life cycles.
