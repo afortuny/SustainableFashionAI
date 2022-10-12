@@ -10,11 +10,14 @@ topical_tags: Fashion, Clothing, AI, Footprint
 
 ---
 
+# Intro and Motivation
+
 We are regularly remind of the impact of our food, transport and energy systems in the stability of our biodiverse systems. A few years ago, when I moved to the Sports
 Clothing industry, the main focus was on the working conditions of employes on the factories, but not so on the environmental impacts of the industry.
 
-Here I would like to provide, in a short blink, a few facts about the industry from which we should ensure fair payment and safe working conditions for all, but also
-and industry that works within planetary boundaries and engage into the complex circular economy setting.
+Here I would like to provide, in a short blink, a few facts about the industry from which we should ensure fair payment and safe working conditions for all, but also and industry that works within planetary boundaries and engage into the complex circular economy setting.
+
+# Facts about the impact of the industry
 
 The following figures come from the [United Nations Environmental Programme and the Ellen Macarthur Foundation](https://www.worldbank.org/en/news/feature/2019/09/23/costo-moda-medio-ambiente):
 
