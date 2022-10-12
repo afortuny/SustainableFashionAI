@@ -45,6 +45,26 @@ Garment creation is a labor intensive activity, [employing 60 million workers wo
 
 But it is that all that AI can offer? job automation and a fashion that is faster, last less and keep polluting the planet at unprecedented rate? Probably not. We would like to offer ways in which AI could accelerate the implementation of a circular economy in the following dimensions:
 
+* Improving what we design
+1) AI can be used to design long lasting garments. We can use product reviews and lab data to make predictions of the lasting of the products, supporting the creation of those with the large life cycles.
+2) AI can be used to create truly unique articles: leverage computer vision, material and fit data we can identify unique products and make leaner offering.
+3) AI can identify those sustainable materials with proven track record in the industry of functionality, good and durability...to make safe substitutions for the traditional less sustainable options.
+4) Using Value based creation and pricing to create valuable and profitable products
+5) Supporting the creation of designs which are easy to recycle or decompose naturally
+
+* Eliminating excess stock
+
+1) AI can be used to reduce excess stocks via better demand forecasting and stock optimization
+2) Leveraging pre-order models ?
+3) Leveraging renting and second life channels ?
+
+* At the delivery stage
+1) AI can be used to reduce returns by making very accurate size/fit/product recommendations
+2) AI can be used to find similar replacements that are close to the point of sale to avoid flight shipping
+
+
+
+
 
 
 
