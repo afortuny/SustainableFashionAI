@@ -48,29 +48,34 @@ But it is that all that AI can offer? job automation and a fashion that is faste
 
 # What AI can do to accelerate a truly circular fashion
 
-* Improving what we design
+*Improving Design and Raw materials selection*
+
 1) AI can be used to design [long lasting garments](https://www.sciencedirect.com/science/article/pii/S0166361522001750). We can use product reviews and lab data to make predictions of the lasting of the products, supporting the creation of those with the large life cycles.
 2) AI can be used to create truly unique articles (Adidas research): leverage computer vision, material and fit data we can identify unique products and make leaner offering.
-3) AI can identify those sustainable materials with proven track record in the industry of functionality, good and durability...to make safe substitutions for the traditional less sustainable options.(Adidas research, trail running review dataset request pending)
+3) AI can identify those sustainable materials with proven track record in the industry of functionality, good and durability...to make safe substitutions and use less sustainable options.(Adidas research, trail running review dataset request pending)
 4) Using Value based creation and pricing to create valuable and profitable products (https://www.sciencedirect.com/science/article/pii/S0148296322006531) (https://www.sciencedirect.com/science/article/pii/S0040162522003316)
-5) Supporting the creation of designs which are easy to recycle or decompose naturally
+5) Supporting the creation of designs which are easy to recycle or [decompose naturally](https://www.nature.com/articles/s41570-019-0124-0).
 
-* Eliminating excess stock and waste
+*Eliminating excess stock and waste*
 
-1) AI can be used to reduce excess stocks via better demand forecasting and stock optimization
-2) Leveraging pre-order models ?
-3) Leveraging renting and [second life channels](https://electricrunway.com/how-thredup-is-using-ai-to-create-a-more-circular-fashion-future/)  ?
+1) AI can be used to reduce excess stocks via better [demand forecasting](https://www.mdpi.com/2571-9394/4/2/31/htm) and [stock optimization](https://www.sciencedirect.com/science/article/pii/S0377221721006111)
+2) Leveraging [pre-order models ](https://www.thezoereport.com/fashion/made-to-order-clothing)
+3) Leveraging renting and [second life channels](https://electricrunway.com/how-thredup-is-using-ai-to-create-a-more-circular-fashion-future/)
 
-* At the delivery stage
-1) AI can be used to reduce returns by making very accurate size/fit/product recommendations
-2) AI can be used to find similar replacements that are close to the point of sale to avoid flight shipping
+*At the delivery stage*
+
+1) AI can be used to reduce returns by making very accurate [size/fit/product recommendations](https://link.springer.com/book/10.1007/978-3-030-66103-8)
+2) AI can be used to find similar replacements that are close to the point of sale to avoid flight shipping (Adidas Research)
 
 # Would AI in fashion face the Jevon's paradox? 
 
-For those who do not know, the Jevons paradox is often used to explain that without suficciency, efficiency gains are consume up by an increased use of the resource. If we make our fashion supply change leaner, our products affordable and durable, will that stop us from bulling and hence polluting more?
-It is hard to believe, while looking at the evidence at the micro and macro level, to expect further increases in production without a subsequent increase in
-water use, waste creation, energy demand, material demands and the like... 
-While there are many unexploited opportunities to create an organic, long lasting, highly used fashion and textile industry, leveraging the power of AI, we would like to acknowledge the need to have a definition of enough, and the increasingly tense match between sustainability and shareholder value maximization. Business needs to be profitable to become financially viable, but do they need always to grow?
+For those who do not know, the [Jevons paradox](https://medium.com/codon-consulting/tackling-climate-change-with-machine-learning-the-jevons-paradox-c22ff6077578) is often used to explain that without suficciency, efficiency gains are consume up by an increased use of the resource. If we make our fashion supply chains leaner, our products affordable and durable, will that stop us from buying and hence polluting more?
+
+It is hard to believe, while looking at the evidence at the micro and macro level, to expect further increases in production without a subsequent increase in water use, waste creation, energy demand, material demands and the like... 
+
+While there are many unexploited opportunities to create an organic, long lasting, highly used fashion and textile industry, leveraging the power of AI, we would like to acknowledge the need to have a definition of enough, and the increasingly tense match between sustainability and shareholder value maximization. 
+
+Business needs to be profitable to become financially viable, but do they need always to grow? 
 
 
 
