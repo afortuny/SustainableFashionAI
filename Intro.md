@@ -80,12 +80,13 @@ Business needs to be profitable to become financially viable, but how much is gr
 
 **Other Links:**
 
-https://towardsdatascience.com/5-ways-ai-is-transforming-the-fashion-industry-for-sustainability-bfd3bb1fc00a
-https://wearebrain.com/blog/ecommerce/ai-sustainable-fashion/
-https://www.sustainably-chic.com/blog/how-ai-is-making-the-fashion-industry-more-sustainable
-https://www.elle.com/uk/fashion/trends/a22125220/ai-future-of-sustainable-fashion/
-https://www.tcs.com/blogs/sustainable-fashion-with-ai
-https://www.ibm.com/blogs/think/uk-en/finding-the-right-fit-why-ai-is-the-solution-to-the-sustainable-fashion-crisis/
+* https://towardsdatascience.com/5-ways-ai-is-transforming-the-fashion-industry-for-sustainability-bfd3bb1fc00a
+* https://wearebrain.com/blog/ecommerce/ai-sustainable-fashion/
+* https://www.sustainably-chic.com/blog/how-ai-is-making-the-fashion-industry-more-sustainable
+* https://www.elle.com/uk/fashion/trends/a22125220/ai-future-of-sustainable-fashion/
+* https://www.tcs.com/blogs/sustainable-fashion-with-ai
+* https://www.ibm.com/blogs/think/uk-en/finding-the-right-fit-why-ai-is-the-solution-to-the-sustainable-fashion-crisis/
+* https://www.forbes.com/sites/forbestechcouncil/2022/01/31/sustainability-in-fast-fashion-how-tech-can-minimize-waste/?sh=48b0971d31e6
 
 
 
