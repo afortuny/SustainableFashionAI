@@ -1,15 +1,3 @@
----
-layout: post
-title: "AI supported Circular Fashion"
-subtitle: "How AI can make fashion and sports's clothing more sustainable"
-image: ""
-image_attribution: 
-authors: 
-article_type: "Research summary"
-topical_tags: Fashion, Clothing, AI, Footprint
-
----
-
 # Intro and Motivation
 
 We are regularly reminded of the impact of our food, transport and energy systems on the stability of our biodiverse systems. A few years ago, when I moved to the Sports Clothing industry, the main focus was on the working conditions of employes on the factories, but not so on the environmental impacts of the industry.
