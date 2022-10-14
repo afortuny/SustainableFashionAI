@@ -84,6 +84,8 @@ https://towardsdatascience.com/5-ways-ai-is-transforming-the-fashion-industry-fo
 https://wearebrain.com/blog/ecommerce/ai-sustainable-fashion/
 https://www.sustainably-chic.com/blog/how-ai-is-making-the-fashion-industry-more-sustainable
 https://www.elle.com/uk/fashion/trends/a22125220/ai-future-of-sustainable-fashion/
+https://www.tcs.com/blogs/sustainable-fashion-with-ai
+https://www.ibm.com/blogs/think/uk-en/finding-the-right-fit-why-ai-is-the-solution-to-the-sustainable-fashion-crisis/
 
 
 
