@@ -81,6 +81,7 @@ Business needs to be profitable to become financially viable, but how much is gr
 * Other Links:
 
 https://towardsdatascience.com/5-ways-ai-is-transforming-the-fashion-industry-for-sustainability-bfd3bb1fc00a
+https://wearebrain.com/blog/ecommerce/ai-sustainable-fashion/
 
 
 
