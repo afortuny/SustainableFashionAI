@@ -53,7 +53,7 @@ But it is that all that AI can offer? job automation and a fashion that is faste
 
 *At the delivery stage*
 
-1) AI can be used to reduce returns by making very accurate [size/fit/product recommendations](https://link.springer.com/book/10.1007/978-3-030-66103-8)
+1) AI can be used to reduce returns by making very accurate [product recommendations](https://link.springer.com/book/10.1007/978-3-030-66103-8) or [fit mapping](https://towardsdatascience.com/would-this-clothing-fit-me-5c3792b7a83f)
 2) AI can be used to find [similar replacements](https://medium.com/analytics-vidhya/cosine-similarity-between-products-to-recommend-similar-products-3b94bf6e30ba) that are close to the point of sale to avoid flight shipping
 
 *Changing consumer behaviours*
