@@ -85,6 +85,7 @@ Business needs to be profitable to become financially viable, but how much is gr
 * https://www.tcs.com/blogs/sustainable-fashion-with-ai
 * https://www.ibm.com/blogs/think/uk-en/finding-the-right-fit-why-ai-is-the-solution-to-the-sustainable-fashion-crisis/
 * https://www.forbes.com/sites/forbestechcouncil/2022/01/31/sustainability-in-fast-fashion-how-tech-can-minimize-waste/?sh=48b0971d31e6
+* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3627157
 
 ** Data Sets:**
 A) Size and Fit recommender systems: https://www.kaggle.com/datasets/rmisra/clothing-fit-dataset-for-size-recommendation
