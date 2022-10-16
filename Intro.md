@@ -42,7 +42,8 @@ But it is that all that AI can offer? job automation and a fashion that is faste
 2) AI can be used to create truly [unique articles](https://medium.com/towards-data-science/learning-product-similarity-in-e-commerce-using-a-supervised-approach-525d734afd99): leverage computer vision, material and fit data we can identify unique products and make leaner offering.
 3) AI can identify those [lasting materials](https://www.sciencedirect.com/science/article/pii/S2405844022020229) with proven track record in the industry of functionality, good and durability...to make safe substitutions and use less sustainable options.
 4) Using Value based creation and pricing to create valuable and profitable products (https://www.sciencedirect.com/science/article/pii/S0148296322006531) (https://www.sciencedirect.com/science/article/pii/S0040162522003316)
-5) Supporting the creation of designs which are easy to recycle or [decompose naturally](https://www.nature.com/articles/s41570-019-0124-0).
+(https://www.sciencedirect.com/science/article/abs/pii/S0959652620357000)
+6) Supporting the creation of designs which are easy to recycle or [decompose naturally](https://www.nature.com/articles/s41570-019-0124-0).
 
 *Eliminating excess stock and waste*
 
