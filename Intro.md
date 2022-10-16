@@ -68,7 +68,7 @@ For those who do not know, the [Jevons paradox](https://medium.com/codon-consult
 
 It is hard to believe, while looking at the evidence at the micro and macro level, to expect further increases in production without a subsequent increase in water use, waste creation, energy demand, material demands and the like... 
 
-While there are many unexploited opportunities to create an organic, long lasting, highly circular fashion and textile industry, leveraging the power of AI, we would like to acknowledge the need to have a definition of enough, and the increasingly tense match between sustainability and shareholder value maximization. 
+While there are many unexploited opportunities to create an organic, long lasting, highly circular fashion and textile industry, leveraging the power of AI, we would like to acknowledge the need to have a definition of [enough](https://www.sciencedirect.com/science/article/pii/S266678432100022X), and the increasingly tense match between sustainability and shareholder value maximization. 
 
 Business needs to be profitable to become financially viable, but how much is growth compatible to planetary boundaries? 
 
