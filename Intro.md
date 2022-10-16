@@ -55,6 +55,10 @@ But it is that all that AI can offer? job automation and a fashion that is faste
 1) AI can be used to reduce returns by making very accurate [size/fit/product recommendations](https://link.springer.com/book/10.1007/978-3-030-66103-8)
 2) AI can be used to find [similar replacements](https://medium.com/analytics-vidhya/cosine-similarity-between-products-to-recommend-similar-products-3b94bf6e30ba) that are close to the point of sale to avoid flight shipping
 
+*Changing consumer behaviours
+1) AI can help to [understand what leads to longer use of garments](https://www.sciencedirect.com/science/article/pii/S2666784321000231) to take product design or policy interventions
+
+
 # Would AI in fashion face the Jevon's paradox? 
 
 For those who do not know, the [Jevons paradox](https://medium.com/codon-consulting/tackling-climate-change-with-machine-learning-the-jevons-paradox-c22ff6077578) is often used to explain that without suficciency, efficiency gains are consume up by an increased use of the resource. If we make our fashion supply chains leaner, our products affordable and durable, will that stop us from buying and hence polluting more?
