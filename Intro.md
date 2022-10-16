@@ -57,6 +57,8 @@ But it is that all that AI can offer? job automation and a fashion that is faste
 
 *Changing consumer behaviours
 1) AI can help to [understand what leads to longer use of garments](https://www.sciencedirect.com/science/article/pii/S2666784321000231) to take product design or policy interventions
+2) AI can provide insights of the [values that drive sustainability clothing choices that is both real and perceived](https://www.sciencedirect.com/science/article/pii/S0959652622038938#tbl5)
+3) AI can provide guidance of [theoritically appealing policies to enable sustainable clothing via durability standards or others](https://www.sciencedirect.com/science/article/pii/S0921800922000209)
 
 
 # Would AI in fashion face the Jevon's paradox? 
