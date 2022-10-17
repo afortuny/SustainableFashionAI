@@ -46,13 +46,14 @@ In the following, we provide a long but not exhaustive list of use cases were AI
 2) AI can be used to create truly [unique articles](https://medium.com/towards-data-science/learning-product-similarity-in-e-commerce-using-a-supervised-approach-525d734afd99): leveraging computer vision, material and fit data we can identify unique products and make a leaner offering that is easy to operate.
 3) Instead of taking a profit based approach to design and pricing, we can use perceived value. This can support the creation of valuable and profitable products (https://www.sciencedirect.com/science/article/pii/S0148296322006531) (https://www.sciencedirect.com/science/article/pii/S0040162522003316)
 (https://www.sciencedirect.com/science/article/abs/pii/S0959652620357000)
-6) Leverage Reinforcement Learning and other methods to create designs that are easy to recycle or [decompose naturally](https://www.nature.com/articles/s41570-019-0124-0).
+6) Leverage Reinforcement Learning and other methods to create designs that are easy to repair, recycle or [decompose naturally](https://www.nature.com/articles/s41570-019-0124-0).
 
 *Eliminating excess stock and waste*
 
 1) AI can be used to reduce excess stocks via better [demand forecasting](https://www.mdpi.com/2571-9394/4/2/31/htm) and [stock optimization](https://www.sciencedirect.com/science/article/pii/S0377221721006111)
 2) Leveraging [pre-order models](https://www.thezoereport.com/fashion/made-to-order-clothing)
 3) Leveraging renting and [second life channels](https://electricrunway.com/how-thredup-is-using-ai-to-create-a-more-circular-fashion-future/)
+4) Computer vision can be used to[ detect the status of garments](https://www.sciencedirect.com/science/article/pii/B9780081012178000038) for resell and second hand channels.
 
 *At the delivery stage*
 
@@ -69,16 +70,19 @@ In the following, we provide a long but not exhaustive list of use cases were AI
 5) AI can be used the detect and track [green washing claims](https://www.rte.ie/lifestyle/living/2021/1116/1260326-science-to-the-rescue-ai-to-fight-greenwashing/)
 
 
-# Would AI in fashion face the Jevon's paradox? 
+# Challenges for the implementation of AI for the circular economy
 
-For those who do not know, the [Jevons paradox](https://medium.com/codon-consulting/tackling-climate-change-with-machine-learning-the-jevons-paradox-c22ff6077578) is often used to explain that without suficciency, efficiency gains are consume up by an increased use of the resource. If we make our fashion supply chains leaner, our products affordable and durable, will that stop us from buying and hence polluting more?
+We identify relatively little research and applications at the intersection of AI and climate mitigation. As with early stages of other implementations of AI, **data gathering** is a not sufficiently fullfilled prerequisite for an extensive use of AI in circular fashion.
 
-It is hard to believe, while looking at the evidence at the micro and macro level, to expect further increases in production without a subsequent increase in water use, waste creation, energy demand, material demands and the like... 
+Another challenge is that given the **explosion of greenwashing**, the usage of machine learning to assess the footprint at a product level and make any sustainability claim without human supervision gets a lot of resistance, despite being more accurate than manually inputed claims. In contrast to that, the data requirements of processing of getting a **complete life cycle analysis is rarely going to scale** for the tens of thousands of products created by large fashion companies every season, if not every couple of weeks.
 
-While there are many unexploited opportunities to create an organic, long lasting, highly circular fashion and textile industry, leveraging the power of AI, we would like to acknowledge the need to have a definition of [enough](https://www.sciencedirect.com/science/article/pii/S266678432100022X), and the increasingly tense match between sustainability and industry growth. 
+In the future, the **regulatory frameworks implemented at least at european level will require companies to provide detailed and accurate reports of their footprints** and in the fashion industry the responsability towars used textiles is going to put significant challenges on their data and information systems, that will require the implementation of new technologies, like blockchain to increase very granular visibility.
 
-Business needs to be profitable to become financially viable, but how much is growth compatible to planetary boundaries? 
+It remains an open question whether the **current inflation levels seen worlwide will change consumption patterns to longer lasting products** and hence large long term savings **or towards cheaper options sacrificing footprint and circularity**. Strong communication and adequate regulation could shift consumption to the former.
 
+Last but not least, many of the lead firms are **stake holder own, and the pressure to keep growing makes any overall footprint reduction more challenging**, even with extensive circularity additions. It is threfore an open challenge if the [Jevons paradox](https://medium.com/codon-consulting/tackling-climate-change-with-machine-learning-the-jevons-paradox-c22ff6077578) will happen if circularity is not implemented without sufficiency. If we make our fashion supply chains leaner, our products affordable and durable, will that stop us from buying and hence polluting more?
+
+None of those challenges are not present in other industries and there **are many industries such as energy, agriculture and forestry, where AI has been successfully implemented to reduce overall emissions at scale**. We do believe the time for circular fashion power by AI has come.
 
 **Other Links:**
 * https://towardsdatascience.com/5-ways-ai-is-transforming-the-fashion-industry-for-sustainability-bfd3bb1fc00a
