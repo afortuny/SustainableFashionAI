@@ -1,12 +1,12 @@
 # Intro and Motivation
 
-We are regularly reminded of the impact of our food, transport and energy systems on the stability of our biodiversity. A few years ago, when I moved to the Sports Clothing industry, the main concern was on the working conditions of employes on the factories, but not so on the environmental impacts of the industry. In the last years, environmental concerns has been added to the social ones
+We are regularly reminded of the impact of our food, transport and energy systems on our biodiversity and climate. A few years ago, when I moved to the Sports Clothing industry, the main concern was on the working conditions of factory workers, but not so on the environmental impacts of the industry. In the last years, environmental concerns has been added to the social ones.
 
-Here I would like to motivate the importance of the fashion industry in climate change impacts and propose a refocus of AI, not only as a tool to sell more and better, but as an accelerator for the circularity of the sector.
+Here I would like to motivate the importance of the fashion industry in climate change mitigation and propose a refocus of AI, not only as a tool to sell more and better, but as an accelerator for the circularity of the sector.
 
 # Facts about the impact of the industry
 
-The following figures from [United Nations Environmental Programme and the Ellen Macarthur Foundation](https://www.worldbank.org/en/news/feature/2019/09/23/costo-moda-medio-ambiente), make a good case for the urgency and importance to reduce global emissions, water use and waste:
+The following figures from [United Nations Environmental Programme and the Ellen Macarthur Foundation](https://www.worldbank.org/en/news/feature/2019/09/23/costo-moda-medio-ambiente), make a good case for the urgency and importance to reduce global emissions, water use and waste in the textile industry:
 
 * The industry is responsible 10 % of annual global carbon emissions, more than all international flights and maritime shipping combined. 
 * 87 % Of the total fiber input is incinerated or disposed of in a landfill.
@@ -24,7 +24,7 @@ To understand what AI can do for a sustainable clothing industry, let's start by
 
 # AI common use cases in the fashion and clothing industry
 
-A brief review of typical use cases for AI in fashion show that the focus is mainly on sales and profitability growth, while little on the implementation of circular fashion principles. With the exeption demand and supply chain optimization algorithms to reduce excess stock and cost of service, there are few experiences at both industry and academia which goes beyond: dynamic pricing and excess stock clearing, product recommendations to increase conversion, automatic designs and trend detection.
+A brief review of typical use cases for AI in fashion show that the focus is mainly on sales and profitability growth, while little on the implementation of circular fashion principles. With the exeption demand and supply chain optimization algorithms to reduce excess stock and cost of service, there are few experiences at both industry and academia which goes beyond dynamic pricing and excess stock clearing, product recommendations to increase conversion, process automation and trend detection.
 
 The following reviews found in medium support such claims: 
 
@@ -33,11 +33,11 @@ The following reviews found in medium support such claims:
 
 On top of that, the employment of AI professionals will hardly compensate for the job losses due to automation, affecting worlwide  [60 million textile workers](https://fashionunited.com/global-fashion-industry-statistics). AI is likely to be used to replace humans in the production process, as [the wall street journal points](https://www.youtube.com/watch?v=OsSDI8wWAyQ).
 
-But it is that all that AI can offer? job automation and a fashion that is faster, last less and keep polluting the planet at unprecedented rate? Probably not. We would like to offer ways in which AI could accelerate the implementation of a circular economy in the following dimensions:
+But it is that all that AI can offer? job automation and fashion that expires faster, last less and keep polluting the planet at unprecedented rate? Probably not. We would like to offer ways in which AI could accelerate the implementation of a circular economy in the following dimensions:
 
 # What AI can do to accelerate a truly circular fashion
 
-In the following, we provide a long but not exhaustive list of use cases were AI can be used to make the industry more sustainable in all stages of the value creation and use, including the potential role of consumer behaviour change and policy supported by AI.
+In the following, we provide a long but not exhaustive list of use cases were AI can be used to make the industry more sustainable in all stages of the value creation, including the potential role of consumer behaviour change and policy changes supported by AI.
 
 
 *Improving Design and Raw materials selection*
@@ -65,14 +65,14 @@ In the following, we provide a long but not exhaustive list of use cases were AI
 
 1) AI can help to [understand what leads to longer use of garments](https://www.sciencedirect.com/science/article/pii/S2666784321000231) on consumers to take product design or policy interventions
 2) AI can provide insights of the [values that drive sustainability clothing choices that is both real and perceived](https://www.sciencedirect.com/science/article/pii/S0959652622038938#tbl5)
-3) AI can test empirically, [theoretically appealing policies to enable sustainable clothing via durability standards or others](https://www.sciencedirect.com/science/article/pii/S0921800922000209)
+3) AI can test [theoretically appealing policies to enable sustainable clothing via durability standards or others](https://www.sciencedirect.com/science/article/pii/S0921800922000209)
 4) BlockChain technology and AI can be used to [scale life cycle management assestments for each product](https://www.sciencedirect.com/science/article/abs/pii/S0959652622006813)
 5) AI can be used the detect and track [green washing claims](https://www.rte.ie/lifestyle/living/2021/1116/1260326-science-to-the-rescue-ai-to-fight-greenwashing/)
 
 
 # Challenges for the implementation of AI for the circular economy
 
-We identify relatively little research and applications at the intersection of AI and climate mitigation. As with early stages of other implementations of AI, **data gathering** is a not sufficiently fullfilled prerequisite for an extensive use of AI in circular fashion.
+We identify relatively little research and applications at the intersection of AI and climate mitigation. As with early stages of other implementations of AI, **data gathering** is a prerequisite for an extensive use of AI in circular fashion.
 
 Another challenge is that given the **explosion of greenwashing**, the usage of machine learning to assess the footprint at a product level and make any sustainability claim without human supervision gets a lot of resistance, despite being more accurate than manually inputed claims. In contrast to that, the data requirements of processing of getting a **complete life cycle analysis is rarely going to scale** for the tens of thousands of products created by large fashion companies every season, if not every couple of weeks.
 
@@ -80,7 +80,7 @@ In the future, the **regulatory frameworks implemented at least at european leve
 
 It remains an open question whether the **current inflation levels seen worlwide will change consumption patterns to longer lasting products** and hence large long term savings **or towards cheaper options sacrificing footprint and circularity**. Strong communication and adequate regulation could shift consumption to the former.
 
-Last but not least, many of the lead firms are **stake holder own, and the pressure to keep growing makes any overall footprint reduction more challenging**, even with extensive circularity additions. It is threfore an open challenge if the [Jevons paradox](https://medium.com/codon-consulting/tackling-climate-change-with-machine-learning-the-jevons-paradox-c22ff6077578) will happen if circularity is not implemented without sufficiency. If we make our fashion supply chains leaner, our products affordable and durable, will that stop us from buying and hence polluting more?
+Last but not least, many of the lead firms are **shareholder own, and the pressure to keep growing makes any overall footprint reduction more challenging**, even with extensive circularity additions. It is threfore an open question if the [Jevons paradox](https://medium.com/codon-consulting/tackling-climate-change-with-machine-learning-the-jevons-paradox-c22ff6077578) will happen when circularity is implemented without sufficiency considerations. If we make our fashion supply chains leaner, our products affordable and durable, will that stop us from buying and pollute more?
 
 None of those challenges are not present in other industries and there **are many industries such as energy, agriculture and forestry, where AI has been successfully implemented to reduce overall emissions at scale**. We do believe the time for circular fashion power by AI has come.
 
